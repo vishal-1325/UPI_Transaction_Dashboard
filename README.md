@@ -3,6 +3,7 @@ UPI Transaction Dashboard (Excel)
 
 An interactive Excel dashboard built to analyze PhonePe UPI transactions using Pivot Tables, Pivot Charts, Slicers, and Excel analytics features. The dashboard provides insights into transaction volume, payment amount, success rate, fraud detection, banking trends, and customer transaction behavior.
 
+Dataset: This project uses a dummy/simulated PhonePe transaction dataset created for learning and portfolio purposes. It does not contain any real or confidential customer data.
 ---
 
 ## 📷 Dashboard Preview
